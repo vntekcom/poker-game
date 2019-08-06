@@ -1,0 +1,20 @@
+.player-1 {
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.player-2 {
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+.player-3 {
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.player-4 {
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
